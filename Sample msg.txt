@@ -1,0 +1,11 @@
+<person>
+<name>John</name>
+<age>30</age>
+<place>Trivandrum</place>
+</person>
+
+{
+	"name":"John",
+	"age":"30",
+	"place":"Trivandrum"
+}
